@@ -1,8 +1,8 @@
 Emoji Arama
-create-react-app ile oluşturuldu. 
+create-react-app ile oluşturuldu.
 
 Düzenlemek
-npm kurulum
+npm install
 
 kullanım
-Npm başlangıç
+npm start
